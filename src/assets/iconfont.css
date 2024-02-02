@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1666864359922') format('truetype');
+  src: url('iconfont.ttf?t=1706845523529') format('truetype');
 }
 
 .iconfont {
@@ -11,23 +11,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-wechat:before {
-  content: "\e629";
+.icon-yuque:before {
+  content: "\e888";
+}
+
+.icon-shouji:before {
+  content: "\e6c7";
+}
+
+.icon-didian:before {
+  content: "\e603";
+}
+
+.icon-dianziyoujian:before {
+  content: "\e643";
+}
+
+.icon-weixin:before {
+  content: "\e637";
 }
 
 .icon-github:before {
-  content: "\e718";
-}
-
-.icon-Phoneshouji:before {
-  content: "\e8dc";
-}
-
-.icon-position:before {
-  content: "\e7f1";
-}
-
-.icon-email:before {
-  content: "\e74f";
+  content: "\ea0b";
 }
 
